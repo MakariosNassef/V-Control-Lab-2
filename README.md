@@ -18,26 +18,25 @@
     :+1:git merge dev.
     :+1:git merge test.
     
-6- push local main to remote
+5- push local main to remote
     :+1:git push origin master with pull request in github.
 
-7- to remove a bransh localy & remotely
+6- to remove a bransh localy & remotely
+    :+1:git bransh -d BRANSHNAME  
+    :+1:git push origin :BRANSHNAME
 
-:+1: git bransh -d BRANSHNAME  
-:+1: git push origin :BRANSHNAME
+7- Create an annotated tag with tagname (v1.7).
+    :+1:git tag -a v1.7 -m "New versio v1.7"
 
-8- Create an annotated tag with tagname (v1.7).
-$ git tag -a v1.7 -m "New versio v1.7"
+8- Push it to the remote repository.
+    :+1:git push origin v1.7
 
-9- Push it to the remote repository.
-$ git push origin v1.7
+9- Tell me how to list tags.
+    :+1:git tag
 
-10- Tell me how to list tags.
-$ git tag
+10- Tell me how to delete tag locally and remotely.
+    :+1:git tag -d v1.7 git push origin --delete v1.7
 
-11- Tell me how to delete tag locally and remotely.
-$ git tag -d v1.7 git push origin --delete v1.7
-
-12- image
+11- image
 
 ![This is an image](https://i.redd.it/gw8idnezl1i91.png)
