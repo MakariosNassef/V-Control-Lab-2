@@ -8,7 +8,7 @@
 **dev**  https://github.com/MakariosNassef/V-Control-Lab-2/tree/dev
 
 --> push the files into branchs
-    [ ]git add . 
+    [x]git add . 
     [ ]git commit -m "test" 
     [ ]git push origin [bransh-name]
     
