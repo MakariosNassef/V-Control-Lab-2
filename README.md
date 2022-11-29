@@ -22,8 +22,7 @@
     :+1:git push origin master with pull request in github.
 
 6- to remove a bransh localy & remotely
-    :+1:git bransh -d Bname  
-    :+1:git push origin :Bname
+    :+1:git bransh -d Bname  :+1:git push origin :Bname
 
 7- Create an annotated tag with tagname (v1.7).
     :+1:git tag -a v1.7 -m "vrName v1.7"
