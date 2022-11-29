@@ -1,4 +1,4 @@
-1- creat Repo with name Version-Control-Lab-2
+1- creat Repo with name **V-Control-Lab-2**
 
 2- mkdir Version-Control-Lab-2 git init git remote add origin https://github.com/NathanEid/Version-Control-Lab-2.git
 
