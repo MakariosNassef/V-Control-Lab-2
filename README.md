@@ -27,7 +27,7 @@ $ git tag
 11- Tell me how to delete tag locally and remotely.
 $ git tag -d v1.7 git push origin --delete v1.7
 
-12- adding an image
+12- image
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.pngkey.com/png/detail/0-8203_old-batman-logo.png))
 
