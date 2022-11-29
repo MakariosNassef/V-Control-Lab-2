@@ -18,7 +18,6 @@
 
     :+1:git merge dev.
     :+1:git merge test.
-
 6- push local main to remote
 
     :+1:git push origin master with pull request in github.
