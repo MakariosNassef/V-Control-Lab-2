@@ -9,24 +9,24 @@
 
 **dev**  https://github.com/MakariosNassef/V-Control-Lab-2/tree/dev
 
---> push the files into branchs
-    *:+1:git add . 
-    *:+1:git commit -m "test" 
-    *:+1:git push origin [bransh-name]
+**push the files into branchs**
+    :+1:git add . 
+    :+1:git commit -m "test" 
+    :+1:git push origin [B-name]
     
 4- merge my two branchs to master lacaly when i was in main 
-    *:+1:git merge dev.
-    *:+1:git merge test.
+    :+1:git merge dev.
+    :+1:git merge test.
     
 5- push local main to remote
     :+1:git push origin master with pull request in github.
 
 6- to remove a bransh localy & remotely
-    :+1:git bransh -d BRANSHNAME  
-    :+1:git push origin :BRANSHNAME
+    :+1:git bransh -d Bname  
+    :+1:git push origin :Bname
 
 7- Create an annotated tag with tagname (v1.7).
-    :+1:git tag -a v1.7 -m "New versio v1.7"
+    :+1:git tag -a v1.7 -m "vrName v1.7"
 
 8- Push it to the remote repository.
     :+1:git push origin v1.7
