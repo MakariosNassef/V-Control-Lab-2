@@ -16,12 +16,12 @@
     
 4- merge my two branchs to master lacaly when i was in main 
 
-    :+1:git merge dev 
-    :+1:git merge test
+    :+1:git merge dev.
+    :+1:git merge test.
 
 6- push local main to remote
 
-    :+1:git push origin master with pull request in github
+    :+1:git push origin master with pull request in github.
 
 7- to remove a bransh localy & remotely
 
