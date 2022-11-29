@@ -10,13 +10,13 @@
 **dev**  https://github.com/MakariosNassef/V-Control-Lab-2/tree/dev
 
 --> push the files into branchs
-    :+1:git add . 
-    :+1:git commit -m "test" 
-    :+1:git push origin [bransh-name]
+    *:+1:git add . 
+    *:+1:git commit -m "test" 
+    *:+1:git push origin [bransh-name]
     
 4- merge my two branchs to master lacaly when i was in main 
-    :+1:git merge dev.
-    :+1:git merge test.
+    *:+1:git merge dev.
+    *:+1:git merge test.
     
 5- push local main to remote
     :+1:git push origin master with pull request in github.
