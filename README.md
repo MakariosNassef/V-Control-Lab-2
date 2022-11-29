@@ -4,13 +4,15 @@
 **https://github.com/MakariosNassef/V-Control-Lab-2**
 
 3- Create two branches (dev & test) then create one file on each branch, and push this changes to the remote repo
+
 **test** https://github.com/MakariosNassef/V-Control-Lab-2/tree/test
+
 **dev**  https://github.com/MakariosNassef/V-Control-Lab-2/tree/dev
 
 --> push the files into branchs
-    [x]git add . 
-    [ ]git commit -m "test" 
-    [ ]git push origin [bransh-name]
+    :+1:git add . 
+    :+1:git commit -m "test" 
+    :+1:git push origin [bransh-name]
     
 5- merge my two branchs to master lacaly when i was in master git merge dev git merge test
 
