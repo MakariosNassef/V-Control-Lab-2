@@ -1,11 +1,17 @@
 1- creat Repo with name **V-Control-Lab-2**
 
-2- mkdir Version-Control-Lab-2 git init git remote add origin https://github.com/NathanEid/Version-Control-Lab-2.git
+2- V-Control-Lab-2 git init git remote add origin
+**https://github.com/MakariosNassef/V-Control-Lab-2**
 
-3- git checkout -b dev #to creat a new branch 3- git checkout -b test #to creat a new branch
+3- Create two branches (dev & test) then create one file on each branch, and push this changes to the remote repo
+**test** https://github.com/MakariosNassef/V-Control-Lab-2/tree/test
+**dev**  https://github.com/MakariosNassef/V-Control-Lab-2/tree/dev
 
-4- for push the files into branchs git add . git commit -m "test" git push origin dev #for dev branch git push origin test #for test branch
-
+--> push the files into branchs
+    [ ]git add . 
+    [ ]git commit -m "test" 
+    [ ]git push origin [bransh-name]
+    
 5- merge my two branchs to master lacaly when i was in master git merge dev git merge test
 
 6- for push my local master to remote with Command line
