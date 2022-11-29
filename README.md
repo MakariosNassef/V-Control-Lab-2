@@ -28,5 +28,6 @@ $ git tag
 $ git tag -d v1.7 git push origin --delete v1.7
 
 12- adding an image
+
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
