@@ -14,14 +14,19 @@
     :+1:git commit -m "test" 
     :+1:git push origin [bransh-name]
     
-5- merge my two branchs to master lacaly when i was in master git merge dev git merge test
+4- merge my two branchs to master lacaly when i was in main 
 
-6- for push my local master to remote with Command line
-$ git push origin master with pull request in github
+    :+1:git merge dev 
+    :+1:git merge test
+
+6- push local main to remote
+
+    :+1:git push origin master with pull request in github
 
 7- to remove a bransh localy & remotely
-$ git bransh -d BRANSHNAME  
-$ git push origin :BRANSHNAME
+
+:+1: git bransh -d BRANSHNAME  
+:+1: git push origin :BRANSHNAME
 
 8- Create an annotated tag with tagname (v1.7).
 $ git tag -a v1.7 -m "New versio v1.7"
